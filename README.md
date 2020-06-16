@@ -1,1 +1,2 @@
-# intel-opencl-sdk PKGBUILD for Arch Linux
+# intel-opencl-sdk 
+Arch Linux PKGBUILD for Intel OpenCL SDK
